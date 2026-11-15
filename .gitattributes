@@ -1,0 +1,2 @@
+# Keep the third-party dataset byte-for-byte: no line-ending conversion.
+FRAUD1_Dataset/** -text

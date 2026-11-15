@@ -1,0 +1,21 @@
+tau_live,pop,test,BPCER,APCER_over_alpha,mean_rounds
+0.0,live,fixed lambda,0.0006519999999999859,,1.338128
+0.0,live,plug-in lambda,0.0005880000000000329,,1.338752
+0.0,floor,fixed lambda,,0.114,1.160688
+0.0,floor,plug-in lambda,,0.15,1.92778
+5.0,live,fixed lambda,0.0022240000000000038,,1.385648
+5.0,live,plug-in lambda,0.0016140000000000043,,1.380428
+5.0,floor,fixed lambda,,0.114,1.159806
+5.0,floor,plug-in lambda,,0.14200000000000002,1.928212
+10.0,live,fixed lambda,0.01927599999999996,,1.53522
+10.0,live,plug-in lambda,0.007182000000000022,,1.51623
+10.0,floor,fixed lambda,,0.1,1.160332
+10.0,floor,plug-in lambda,,0.128,1.924438
+15.0,live,fixed lambda,0.06791199999999997,,1.669748
+15.0,live,plug-in lambda,0.02711399999999997,,1.752168
+15.0,floor,fixed lambda,,0.114,1.159268
+15.0,floor,plug-in lambda,,0.134,1.917488
+20.0,live,fixed lambda,0.12410200000000005,,1.71488
+20.0,live,plug-in lambda,0.06192799999999998,,1.970008
+20.0,floor,fixed lambda,,0.122,1.16
+20.0,floor,plug-in lambda,,0.15,1.927028

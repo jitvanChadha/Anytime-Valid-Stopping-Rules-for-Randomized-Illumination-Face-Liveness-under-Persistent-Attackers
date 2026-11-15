@@ -1,0 +1,156 @@
+{
+ "summary": {
+  "detector": "peaks",
+  "roi": "center",
+  "n_used": 274,
+  "n_rejected": 26,
+  "fps_median": 30.0,
+  "reject_rate": 0.08666666666666667,
+  "warning": null,
+  "frame_ms": 33.333333333333336,
+  "quantisation_floor_ms": 9.622504486493764,
+  "sigma_pooled_ms": 11.282899110985927,
+  "sigma_pooled_ci95": [
+   10.497263071311838,
+   12.025623098839551
+  ],
+  "period_ms_mean": 190.52172382282072,
+  "period_ms_between_video_sd": 6.390473074456535,
+  "width_ms_between_video_sd": 7.114324449767986,
+  "framelock": {
+   "R": 0.29034566128437117,
+   "resid_rms_frames": 0.2367260408727261,
+   "interval_frames_hist": {
+    "3": 3,
+    "4": 20,
+    "5": 343,
+    "6": 1152,
+    "7": 126
+   },
+   "sigma_whole_frame_part_ms": 12.454296007847844,
+   "whole_frame_share_of_variance": 1.2184198272573927,
+   "reading": "NOT frame-locked: intervals vary continuously (rms distance >= 0.22 frame), sigma_hat reflects timing noise"
+  }
+ },
+ "rejected": [
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111810.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161200.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161310.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161527.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110643.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110911.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516111053.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516230944.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113458.avi",
+   "5 rises / 5 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113514.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516115953.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120242.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121434.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121455.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121509.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122641.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122804.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131235.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131319.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131441.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131515.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131645.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142535.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142621.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160100.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160147.avi",
+   "3 rises / 3 falls (want 4)"
+  ]
+ ],
+ "args": {
+  "dir": "FRAUD1_Dataset\\FRAUD1-Live_Persons",
+  "list": false,
+  "selftest": false,
+  "diagnose": false,
+  "include": null,
+  "exclude": null,
+  "roi": "center",
+  "cycles": 4,
+  "detector": "peaks",
+  "group_regex": null,
+  "dump_signals": null,
+  "out": "abl_peaks_center.json",
+  "roi_preview": null
+ }
+}

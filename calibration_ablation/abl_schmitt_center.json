@@ -1,0 +1,1119 @@
+{
+ "summary": {
+  "detector": "schmitt",
+  "roi": "center",
+  "n_used": 33,
+  "n_rejected": 267,
+  "fps_median": 30.0,
+  "reject_rate": 0.89,
+  "warning": "reject rate > 15%: videos with irregular pulses are dropped, so sigma is biased LOW (treat as lower bound)",
+  "frame_ms": 33.333333333333336,
+  "quantisation_floor_ms": 9.622504486493764,
+  "sigma_pooled_ms": 11.655185006581466,
+  "sigma_pooled_ci95": [
+   9.985321937515417,
+   13.464606135509857
+  ],
+  "period_ms_mean": 193.9134471380718,
+  "period_ms_between_video_sd": 5.5410737699352826,
+  "width_ms_between_video_sd": 6.378326948250948,
+  "framelock": {
+   "R": 0.16779537783166756,
+   "resid_rms_frames": 0.2608260405820467,
+   "interval_frames_hist": {
+    "4": 1,
+    "5": 41,
+    "6": 138,
+    "7": 18
+   },
+   "sigma_whole_frame_part_ms": 12.920806874208106,
+   "whole_frame_share_of_variance": 1.2289689969839215,
+   "reading": "NOT frame-locked: intervals vary continuously (rms distance >= 0.22 frame), sigma_hat reflects timing noise"
+  }
+ },
+ "rejected": [
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111433.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111453.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111507.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111523.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111538.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111553.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111608.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111623.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111638.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111709.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111727.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111754.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111810.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111827.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject1-Logitech\\20140516111842.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232053.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232106.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232121.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232151.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232204.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232214.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232224.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232237.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232247.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232257.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232311.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232332.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject10-Logitech\\20140516232342.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112408.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112427.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112508.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112528.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112547.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112626.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112705.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112719.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112734.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112750.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112820.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112852.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject2-Logitech\\20140516112906.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120619.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120637.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120647.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120657.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120707.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120725.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120735.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120745.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120755.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120805.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120815.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120825.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120835.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120846.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject3-Logitech\\20140516120855.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121124.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121139.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121149.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121202.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121212.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121222.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121232.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121242.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121252.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121311.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121321.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121331.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121341.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject4-Logitech\\20140516121351.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516122942.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516122952.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123002.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123012.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123024.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123035.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123045.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123054.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123114.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123124.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123134.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123144.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject5-Logitech\\20140516123154.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130449.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130516.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130532.avi",
+   "1 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130542.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130553.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130645.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130656.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130723.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130733.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130743.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130759.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130809.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject6-Logitech\\20140516130823.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143405.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143437.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143521.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143621.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143655.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143709.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143720.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143730.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143740.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143750.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143802.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143815.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143828.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143848.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject7-Logitech\\20140516143858.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161200.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161310.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161402.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161527.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161706.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516161926.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162405.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162510.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162549.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162628.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162657.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject8-Logitech\\20140516162752.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225417.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225447.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225506.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225522.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225555.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225618.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225720.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225742.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225755.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225807.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "LogitechPro9000\\Subject9-Logitech\\20140516225840.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110523.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110543.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110643.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110700.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110827.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110927.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110943.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516110958.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516111017.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516111033.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516111053.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject1-LifeCam\\20140516111109.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516230944.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231315.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231424.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231513.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231550.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231605.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231630.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231709.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231750.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231824.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject10-LifeCam\\20140516231838.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113130.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113159.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113240.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113256.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113314.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113333.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113416.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113442.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113458.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113514.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113530.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113546.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113602.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject2-LifeCam\\20140516113715.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516115904.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516115932.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516115953.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120005.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120016.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120037.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120105.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120117.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120156.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120212.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120256.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120310.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject3-LifeCam\\20140516120324.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121434.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121455.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121509.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121523.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121536.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121550.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121619.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121648.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121704.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121717.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121731.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121745.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121801.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject4-LifeCam\\20140516121814.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122230.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122302.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122320.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122335.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122350.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122456.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122609.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122627.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122641.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122655.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122709.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122723.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122737.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122750.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject5-LifeCam\\20140516122804.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131036.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131132.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131235.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131302.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131319.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131348.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131407.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131428.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131441.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131459.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131515.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131542.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131602.avi",
+   "1 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131616.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject6-LifeCam\\20140516131645.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516141515.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516141811.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516141917.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142214.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142448.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142505.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142522.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142535.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142558.avi",
+   "2 rises / 1 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142621.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142642.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142852.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142920.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516142955.avi",
+   "3 rises / 4 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject7-LifeCam\\20140516143012.avi",
+   "2 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516155003.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516155335.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516155433.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516155915.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160034.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160100.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160147.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160304.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160504.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject8-LifeCam\\20140516160528.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230142.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230219.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230232.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230410.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230502.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230612.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230625.avi",
+   "3 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230648.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230702.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230716.avi",
+   "4 rises / 3 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230729.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230743.avi",
+   "3 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230757.avi",
+   "2 rises / 2 falls (want 4)"
+  ],
+  [
+   "MicrosoftLifeCam\\Subject9-LifeCam\\20140516230813.avi",
+   "3 rises / 3 falls (want 4)"
+  ]
+ ],
+ "args": {
+  "dir": "FRAUD1_Dataset\\FRAUD1-Live_Persons",
+  "list": false,
+  "selftest": false,
+  "diagnose": false,
+  "include": null,
+  "exclude": null,
+  "roi": "center",
+  "cycles": 4,
+  "detector": "schmitt",
+  "group_regex": null,
+  "dump_signals": null,
+  "out": "abl_schmitt_center.json",
+  "roi_preview": null
+ }
+}

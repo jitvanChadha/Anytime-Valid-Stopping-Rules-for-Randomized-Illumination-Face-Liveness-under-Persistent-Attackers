@@ -1,0 +1,64 @@
+{
+ "created_utc": "2026-10-16T05:07:37+00:00",
+ "versions": {
+  "python": "3.14.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.2",
+  "scipy": "1.18.1",
+  "pandas": "3.0.5",
+  "cv2": "5.0.0"
+ },
+ "seed": 20261011,
+ "n_per_cell": 2000000,
+ "delta_ms": 50.0,
+ "tau_live_ms": 10.0,
+ "calibration": {
+  "detector": "peaks",
+  "roi": "auto",
+  "n_used": 276,
+  "n_rejected": 24,
+  "fps_median": 30.0,
+  "reject_rate": 0.08,
+  "warning": null,
+  "frame_ms": 33.333333333333336,
+  "quantisation_floor_ms": 9.622504486493764,
+  "sigma_pooled_ms": 11.756100086567573,
+  "sigma_pooled_ci95": [
+   10.966736229508212,
+   12.541606024896467
+  ],
+  "period_ms_mean": 190.1903741993015,
+  "period_ms_between_video_sd": 6.215724079661955,
+  "width_ms_between_video_sd": 7.440083227667425,
+  "framelock": {
+   "R": 0.25715540298953843,
+   "resid_rms_frames": 0.24446587067536596,
+   "interval_frames_hist": {
+    "3": 3,
+    "4": 24,
+    "5": 346,
+    "6": 1157,
+    "7": 124,
+    "8": 2
+   },
+   "sigma_whole_frame_part_ms": 12.556902155140124,
+   "whole_frame_share_of_variance": 1.1408760697150788,
+   "reading": "NOT frame-locked: intervals vary continuously (rms distance >= 0.22 frame), sigma_hat reflects timing noise"
+  }
+ },
+ "regime": "A",
+ "regime_notes": [
+  "Regime A (delta/sigma >= 3.3) AT THE ASSUMED delta ONLY - delta has no evidence yet, so report the delta sweep (stage 7 / E7) instead of a single regime: the i.i.d.-calibrated Wald SPRT is NOT broken by persistence here (E6: 0.6x alpha at sigma=15). Do not claim that Wald fails. Claim instead: fixed-round averaging fails (~88x alpha at sigma=15) and the floor-calibrated e-process keeps alpha at every stopping time with ~47-54% fewer rounds than fixed-M."
+ ],
+ "data_zip_sha256": "eada19636a52087b57cb6652d182ee877741dfa62238f3535ba90b138096eeb8",
+ "data_accessed": "2026-10-14",
+ "script_sha256": {
+  "sim.py": "d97a27c7f3b1094484cace17fa040d1e1657213758deba4efeb00b30ca55ae8d",
+  "fraud1_jitter.py": "2dc57ae6cdaae8f185e4c5e3c290384f54e8bd4f9dadf49ce2b1c008e35e34e0",
+  "run_calibrated_sim.py": "1b6dd4891d84c8ff402ae4158af7288ca7caec76f90fc062097f3b92a8e088bf"
+ },
+ "commands": [
+  "<dir>/python.exe <dir>/fraud1_jitter.py FRAUD1_Dataset\\FRAUD1-Live_Persons --roi auto --cycles 4 --detector peaks --out runs/real_v2\\calib.json",
+  "<dir>/python.exe <dir>/sim.py --n 2000000 --sigma 11.756 --delta 50.0 --tau-live 10.0 --seed 20261011 --out runs/real_v2"
+ ]
+}

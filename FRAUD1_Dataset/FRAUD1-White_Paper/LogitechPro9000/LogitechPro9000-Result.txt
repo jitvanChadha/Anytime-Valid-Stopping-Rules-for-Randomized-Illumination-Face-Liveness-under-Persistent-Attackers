@@ -1,0 +1,450 @@
+20140428223803: Chal - Red Magenta Green Green - 955
+20140428223803: Resp - Red Blue Green Green - 906 - *** Does not match - start was 6
+
+20140428223818: Chal - Yellow Yellow Yellow Blue - 2797
+20140428223818: Resp - Yellow Yellow Yellow Blue - 2797 - Matches - start was 5
+
+20140428223832: Chal - Red Red Red Green - 801
+20140428223832: Resp - Red Red Red Green - 801 - Matches - start was 5
+
+20140428223846: Chal - Blue Cyan Blue Green - 1697
+20140428223846: Resp - Blue Cyan Blue Green - 1697 - Matches - start was 5
+
+20140428223923: Chal - Blue Red Red Cyan - 1490
+20140428223923: Resp - Blue Red Red Cyan - 1490 - Matches - start was 5
+
+20140428223937: Chal - Blue Magenta Cyan Green - 1662
+20140428223937: Resp - Blue Magenta Cyan Green - 1662 - Matches - start was 5
+
+20140428223952: Chal - Blue Green Yellow Cyan - 1574
+20140428223952: Resp - Blue Green Yellow Cyan - 1574 - Matches - start was 5
+
+20140428224006: Chal - Green Green Cyan Red - 1220
+20140428224006: Resp - Green Green Cyan Red - 1220 - Matches - start was 5
+
+20140428224020: Chal - Red Green Yellow Blue - 886
+20140428224020: Resp - Red Green Yellow Blue - 886 - Matches - start was 5
+
+20140428224036: Chal - Blue Blue Cyan Blue - 1614
+20140428224036: Resp - Blue Blue Cyan Blue - 1614 - Matches - start was 5
+
+20140428224050: Chal - Green Green Green Yellow - 1204
+20140428224050: Resp - Green Green Green Yellow - 1204 - Matches - start was 5
+
+20140428224105: Chal - Yellow Yellow Green Blue - 2769
+20140428224105: Resp - Yellow Yellow Green Blue - 2769 - Matches - start was 5
+
+20140428224119: Chal - Blue Red Green Yellow - 1498
+20140428224119: Resp - Blue Red Green Yellow - 1498 - Matches - start was 5
+
+20140428224133: Chal - Red Green Cyan Blue - 879
+20140428224133: Resp - Red Green Cyan Blue - 879 - Matches - start was 5
+
+20140428224148: Chal - Blue Yellow Yellow Yellow - 1771
+20140428224148: Resp - Blue Yellow Yellow Yellow - 1771 - Matches - start was 5
+
+20140428224203: Chal - Red Yellow Magenta Cyan - 1070
+20140428224203: Resp - Red Yellow Green Cyan - 1056 - *** Does not match - start was 5
+
+20140428224217: Chal - Red Cyan Red Red - 996
+20140428224217: Resp - Red Cyan Red Red - 996 - Matches - start was 6
+
+20140428224231: Chal - Red Yellow Cyan Yellow - 1078
+20140428224231: Resp - Red Yellow Cyan Yellow - 1078 - Matches - start was 5
+
+20140428224245: Chal - Green Cyan Blue Green - 1354
+20140428224245: Resp - Green Cyan Blue Green - 1354 - Matches - start was 5
+
+20140428224309: Chal - Red Cyan Green Red - 1003
+20140428224309: Resp - Red Cyan Green Red - 1003 - Matches - start was 6
+
+20140428224323: Chal - Red Red Yellow Cyan - 839
+20140428224323: Resp - Red Red Yellow Cyan - 839 - Matches - start was 5
+
+20140428224444: Chal - Green Yellow Magenta Red - 1409
+20140428224444: Resp - Green Yellow Magenta Red - 1409 - Matches - start was 5
+
+20140428224500: Chal - Magenta Yellow Cyan Green - 2103
+20140428224500: Resp - Magenta Yellow Cyan Green - 2103 - Matches - start was 5
+
+20140428224516: Chal - Magenta Cyan Cyan Yellow - 2058
+20140428224516: Resp - Magenta Cyan Cyan Red - 2053 - *** Does not match - start was 5
+
+20140428224532: Chal - Red Red Magenta Yellow - 826
+20140428224532: Resp - Red Red Magenta Yellow - 826 - Matches - start was 5
+
+20140428224548: Chal - Cyan Cyan Red Magenta - 2371
+20140428224548: Resp - Cyan Cyan Red Blue - 2370 - *** Does not match - start was 5
+
+20140428224604: Chal - Yellow Magenta Blue Green - 2677
+20140428224604: Resp - Yellow Blue Blue Green - 2628 - *** Does not match - start was 5
+
+20140428224621: Chal - Red Red Cyan Red - 828
+20140428224621: Resp - Red Red Cyan Red - 828 - Matches - start was 5
+
+20140428224637: Chal - Magenta Green Yellow Green - 1914
+20140428224637: Resp - Magenta Green Yellow Green - 1914 - Matches - start was 5
+
+20140428224653: Chal - Yellow Magenta Blue Red - 2676
+20140428224653: Resp - Yellow Green Blue Red - 2578 - *** Does not match - start was 5
+
+20140428224709: Chal - Blue Green Red Blue - 1537
+20140428224709: Resp - Blue Green Red Blue - 1537 - Matches - start was 5
+
+20140428224733: Chal - Blue Yellow Magenta Blue - 1754
+20140428224733: Resp - Blue Yellow Green Blue - 1740 - *** Does not match - start was 5
+
+20140428224749: Chal - Green Red Yellow Red - 1178
+20140428224749: Resp - Green Red Yellow Red - 1178 - Matches - start was 5
+
+20140428224806: Chal - Yellow Blue Cyan Magenta - 2644
+20140428224806: Resp - Yellow Blue Cyan Magenta - 2644 - Matches - start was 5
+
+20140428224822: Chal - Red Yellow Cyan Cyan - 1077
+20140428224822: Resp - Red Yellow Cyan Cyan - 1077 - Matches - start was 5
+
+20140428224914: Chal - Cyan Magenta Yellow Blue - 2356
+20140428224914: Resp - Cyan Green Yellow Blue - 2258 - *** Does not match - start was 5
+
+20140428224930: Chal - Red Cyan Magenta Green - 1018
+20140428224930: Resp - Red Cyan Green Green - 1004 - *** Does not match - start was 5
+
+20140428224946: Chal - Blue Cyan Green Cyan - 1693
+20140428224946: Resp - Blue Cyan Green Cyan - 1693 - Matches - start was 5
+
+20140428225129: Chal - Green Cyan Magenta Magenta - 1363
+20140428225129: Resp - Green Cyan Magenta Green - 1361 - *** Does not match - start was 5
+
+20140428225146: Chal - Magenta Yellow Yellow Green - 2110
+20140428225146: Resp - Magenta Yellow Yellow Green - 2110 - Matches - start was 6
+
+20140428225252: Chal - Red Cyan Green Yellow - 1008
+20140428225252: Resp - Red Cyan Green Yellow - 1008 - Matches - start was 5
+
+20140428225308: Chal - Magenta Red Blue Yellow - 1848
+20140428225308: Resp - Magenta Red Blue Yellow - 1848 - Matches - start was 5
+
+20140428225324: Chal - Red Green Blue Magenta - 866
+20140428225324: Resp - Red Green Blue Magenta - 866 - Matches - start was 5
+
+20140428225340: Chal - Yellow Cyan Magenta Blue - 2734
+20140428225340: Resp - Yellow Cyan Green Blue - 2720 - *** Does not match - start was 5
+
+20140428225356: Chal - Cyan Cyan Red Yellow - 2373
+20140428225356: Resp - Cyan Cyan Red Yellow - 2373 - Matches - start was 5
+
+20140428225412: Chal - Cyan Green Yellow Magenta - 2259
+20140428225412: Resp - Cyan Green Yellow Blue - 2258 - *** Does not match - start was 5
+
+20140428225429: Chal - Yellow Magenta Red Blue - 2664
+20140428225429: Resp - Yellow Green Red Blue - 2566 - *** Does not match - start was 5
+
+20140428225445: Chal - Cyan Red Green Yellow - 2184
+20140428225445: Resp - Cyan Red Green Yellow - 2184 - Matches - start was 5
+
+20140428225501: Chal - Magenta Yellow Red Cyan - 2078
+20140428225501: Resp - Magenta Yellow Red Cyan - 2078 - Matches - start was 5
+
+20140428225517: Chal - Yellow Cyan Red Blue - 2713
+20140428225517: Resp - Yellow Cyan Red Blue - 2713 - Matches - start was 5
+
+20140428225720: Chal - Magenta Cyan Cyan Yellow - 2058
+20140428225720: Resp - Blue Cyan Cyan Yellow - 1715 - *** Does not match - start was 5
+
+20140428225838: Chal - Cyan Cyan Red Green - 2369
+20140428225838: Resp - Cyan Cyan Red Green - 2369 - Matches - start was 5
+
+20140428230009: Chal - Magenta Magenta Magenta Blue - 1999
+20140428230009: Resp - Blue Green Blue Blue - 1551 - *** Does not match - start was 5
+
+20140428230025: Chal - Red Green Cyan Magenta - 880
+20140428230025: Resp - Red Green Cyan Magenta - 880 - Matches - start was 5
+
+20140428230041: Chal - Cyan Yellow Magenta Yellow - 2443
+20140428230041: Resp - Cyan Yellow Magenta Yellow - 2443 - Matches - start was 5
+
+20140428230057: Chal - Yellow Cyan Yellow Red - 2746
+20140428230057: Resp - Yellow Cyan Yellow Red - 2746 - Matches - start was 5
+
+20140428230113: Chal - Magenta Red Red Red - 1829
+20140428230113: Resp - Magenta Red Red Red - 1829 - Matches - start was 5
+
+20140428230221: Chal - Red Cyan Yellow Yellow - 1036
+20140428230221: Resp - Red Cyan Yellow Yellow - 1036 - Matches - start was 5
+
+20140428230502: Chal - Magenta Green Green Red - 1885
+20140428230502: Resp - Magenta Green Green Red - 1885 - Matches - start was 5
+
+20140428230518: Chal - Cyan Yellow Blue Yellow - 2436
+20140428230518: Resp - Cyan Yellow Blue Yellow - 2436 - Matches - start was 5
+
+20140428230534: Chal - Blue Yellow Magenta Magenta - 1755
+20140428230534: Resp - Blue Yellow Green Green - 1739 - *** Does not match - start was 5
+
+20140428230624: Chal - Cyan Cyan Magenta Cyan - 2393
+20140428230624: Resp - Cyan Cyan Green Cyan - 2379 - *** Does not match - start was 5
+
+20140428230640: Chal - Red Green Blue Cyan - 867
+20140428230640: Resp - Red Green Blue Green - 864 - *** Does not match - start was 5
+
+20140428230657: Chal - Magenta Blue Green Blue - 1936
+20140428230657: Resp - Magenta Blue Green Blue - 1936 - Matches - start was 5
+
+20140428230713: Chal - Blue Green Red Red - 1535
+20140428230713: Resp - Blue Green Red Red - 1535 - Matches - start was 5
+
+20140428230729: Chal - Blue Cyan Magenta Cyan - 1707
+20140428230729: Resp - Blue Cyan Green Cyan - 1693 - *** Does not match - start was 5
+
+20140428230745: Chal - Magenta Red Red Red - 1829
+20140428230745: Resp - Magenta Red Red Red - 1829 - Matches - start was 5
+
+20140428230801: Chal - Blue Green Blue Magenta - 1552
+20140428230801: Resp - Blue Green Blue Magenta - 1552 - Matches - start was 5
+
+20140428230817: Chal - Blue Blue Cyan Red - 1612
+20140428230817: Resp - Blue Blue Cyan Red - 1612 - Matches - start was 5
+
+20140428230833: Chal - Green Magenta Yellow Red - 1325
+20140428230833: Resp - Green Magenta Yellow Red - 1325 - Matches - start was 5
+
+20140428230850: Chal - Green Magenta Yellow Green - 1326
+20140428230850: Resp - Green Green Yellow Green - 1228 - *** Does not match - start was 5
+
+20140428230953: Chal - Red Yellow Cyan Blue - 1075
+20140428230953: Resp - Red Yellow Cyan Blue - 1075 - Matches - start was 5
+
+20140428231009: Chal - Cyan Blue Blue Red - 2284
+20140428231009: Resp - Cyan Blue Blue Red - 2284 - Matches - start was 5
+
+20140428231025: Chal - Red Green Red Blue - 851
+20140428231025: Resp - Red Green Red Blue - 851 - Matches - start was 5
+
+20140428231041: Chal - Cyan Yellow Cyan Blue - 2447
+20140428231041: Resp - Cyan Yellow Cyan Blue - 2447 - Matches - start was 5
+
+20140428231057: Chal - Green Blue Cyan Yellow - 1274
+20140428231057: Resp - Green Blue Cyan Yellow - 1274 - Matches - start was 5
+
+20140428231114: Chal - Red Yellow Yellow Green - 1081
+20140428231114: Resp - Red Yellow Yellow Green - 1081 - Matches - start was 5
+
+20140428231130: Chal - Blue Green Red Red - 1535
+20140428231130: Resp - Blue Green Red Red - 1535 - Matches - start was 6
+
+20140428231146: Chal - Green Green Yellow Cyan - 1231
+20140428231146: Resp - Green Green Yellow Cyan - 1231 - Matches - start was 5
+
+20140428231202: Chal - Blue Cyan Yellow Blue - 1719
+20140428231202: Resp - Blue Cyan Yellow Blue - 1719 - Matches - start was 5
+
+20140428231218: Chal - Green Cyan Green Red - 1346
+20140428231218: Resp - Green Cyan Green Red - 1346 - Matches - start was 5
+
+20140428231255: Chal - Yellow Blue Green Red - 2620
+20140428231255: Resp - Yellow Blue Green Red - 2620 - Matches - start was 5
+
+20140428231311: Chal - Magenta Blue Red Cyan - 1931
+20140428231311: Resp - Blue Blue Red Cyan - 1588 - *** Does not match - start was 6
+
+20140428231327: Chal - Yellow Cyan Green Cyan - 2722
+20140428231327: Resp - Yellow Cyan Green Cyan - 2722 - Matches - start was 5
+
+20140428231343: Chal - Cyan Red Red Cyan - 2176
+20140428231343: Resp - Cyan Red Red Cyan - 2176 - Matches - start was 5
+
+20140428231359: Chal - Yellow Cyan Green Cyan - 2722
+20140428231359: Resp - Yellow Cyan Green Cyan - 2722 - Matches - start was 5
+
+20140428231415: Chal - Red Red Cyan Yellow - 833
+20140428231415: Resp - Red Red Cyan Yellow - 833 - Matches - start was 5
+
+20140428231432: Chal - Green Cyan Red Green - 1340
+20140428231432: Resp - Green Cyan Red Green - 1340 - Matches - start was 5
+
+20140428231448: Chal - Red Green Green Green - 857
+20140428231448: Resp - Red Green Green Green - 857 - Matches - start was 5
+
+20140428231504: Chal - Cyan Magenta Cyan Magenta - 2350
+20140428231504: Resp - Cyan Magenta Cyan Green - 2348 - *** Does not match - start was 5
+
+20140428231520: Chal - Red Red Yellow Red - 835
+20140428231520: Resp - Red Red Yellow Red - 835 - Matches - start was 5
+
+20140428231533: Chal - Blue Red Red Red - 1486
+20140428231533: Resp - Blue Red Red Red - 1486 - Matches - start was 5
+
+20140428231549: Chal - Red Cyan Magenta Cyan - 1021
+20140428231549: Resp - Red Cyan Blue Cyan - 1014 - *** Does not match - start was 5
+
+20140428231605: Chal - Red Magenta Red Green - 948
+20140428231605: Resp - Red Green Red Green - 850 - *** Does not match - start was 5
+
+20140428231622: Chal - Green Green Blue Red - 1206
+20140428231622: Resp - Green Green Blue Red - 1206 - Matches - start was 5
+
+20140428231638: Chal - Red Red Magenta Red - 821
+20140428231638: Resp - Red Red Green Red - 807 - *** Does not match - start was 5
+
+20140428231654: Chal - Red Magenta Green Yellow - 959
+20140428231654: Resp - Red Magenta Green Yellow - 959 - Matches - start was 5
+
+20140428231710: Chal - Red Blue Yellow Yellow - 938
+20140428231710: Resp - Red Blue Yellow Yellow - 938 - Matches - start was 5
+
+20140428231811: Chal - Cyan Green Blue Blue - 2237
+20140428231811: Resp - Cyan Green Blue Blue - 2237 - Matches - start was 5
+
+20140428231827: Chal - Yellow Red Green Green - 2523
+20140428231827: Resp - Magenta Red Green Green - 1837 - *** Does not match - start was 4
+
+20140428231843: Chal - Yellow Red Yellow Blue - 2552
+20140428231843: Resp - Yellow Red Yellow Blue - 2552 - Matches - start was 5
+
+20140428231859: Chal - Green Cyan Magenta Blue - 1362
+20140428231859: Resp - Green Cyan Green Blue - 1348 - *** Does not match - start was 5
+
+20140428231959: Chal - Magenta Red Cyan Red - 1857
+20140428231959: Resp - Blue Red Cyan Red - 1514 - *** Does not match - start was 5
+
+20140428232015: Chal - Blue Magenta Yellow Red - 1668
+20140428232015: Resp - Blue Magenta Yellow Red - 1668 - Matches - start was 5
+
+20140428232031: Chal - Green Green Magenta Magenta - 1216
+20140428232031: Resp - Green Green Green Green - 1200 - *** Does not match - start was 5
+
+20140428232047: Chal - Magenta Cyan Cyan Magenta - 2056
+20140428232047: Resp - Blue Cyan Cyan Magenta - 1713 - *** Does not match - start was 5
+
+20140428232128: Chal - Magenta Yellow Magenta Magenta - 2098
+20140428232128: Resp - Magenta Yellow Green Magenta - 2084 - *** Does not match - start was 5
+
+20140428232144: Chal - Yellow Yellow Cyan Blue - 2790
+20140428232144: Resp - Yellow Red Cyan Blue - 2545 - *** Does not match - start was 5
+
+20140428232200: Chal - Red Red Cyan Red - 828
+20140428232200: Resp - Red Red Cyan Red - 828 - Matches - start was 5
+
+20140428232216: Chal - Cyan Cyan Green Red - 2375
+20140428232216: Resp - Cyan Cyan Green Red - 2375 - Matches - start was 5
+
+20140428232232: Chal - Blue Yellow Cyan Blue - 1761
+20140428232232: Resp - Blue Yellow Cyan Blue - 1761 - Matches - start was 5
+
+20140428232248: Chal - Magenta Blue Green Green - 1935
+20140428232248: Resp - Blue Blue Green Green - 1592 - *** Does not match - start was 5
+
+20140428232305: Chal - Blue Cyan Cyan Cyan - 1714
+20140428232305: Resp - Blue Cyan Cyan Cyan - 1714 - Matches - start was 5
+
+20140428232321: Chal - Yellow Magenta Yellow Cyan - 2701
+20140428232321: Resp - Yellow Green Yellow Cyan - 2603 - *** Does not match - start was 5
+
+20140428232337: Chal - Yellow Magenta Cyan Magenta - 2693
+20140428232337: Resp - Yellow Magenta Cyan Green - 2691 - *** Does not match - start was 5
+
+20140428232353: Chal - Magenta Yellow Magenta Yellow - 2100
+20140428232353: Resp - Blue Yellow Green Yellow - 1743 - *** Does not match - start was 5
+
+20140428232440: Chal - Blue Red Red Green - 1487
+20140428232440: Resp - Blue Red Red Green - 1487 - Matches - start was 5
+
+20140428232456: Chal - Yellow Yellow Red Red - 2760
+20140428232456: Resp - Yellow Yellow Red Red - 2760 - Matches - start was 5
+
+20140428232512: Chal - Yellow Cyan Red Yellow - 2716
+20140428232512: Resp - Yellow Cyan Red Yellow - 2716 - Matches - start was 5
+
+20140428232528: Chal - Blue Magenta Cyan Magenta - 1664
+20140428232528: Resp - Blue Magenta Cyan Green - 1662 - *** Does not match - start was 5
+
+20140428232653: Chal - Cyan Green Yellow Green - 2257
+20140428232653: Resp - Cyan Green Yellow Green - 2257 - Matches - start was 5
+
+20140428232709: Chal - Yellow Cyan Blue Magenta - 2728
+20140428232709: Resp - Yellow Cyan Blue Magenta - 2728 - Matches - start was 5
+
+20140428232725: Chal - Magenta Green Green Blue - 1887
+20140428232725: Resp - Blue Green Green Blue - 1544 - *** Does not match - start was 5
+
+20140428232742: Chal - Magenta Magenta Yellow Magenta - 2014
+20140428232742: Resp - Magenta Green Yellow Green - 1914 - *** Does not match - start was 5
+
+20140428232758: Chal - Blue Cyan Green Yellow - 1694
+20140428232758: Resp - Blue Cyan Green Yellow - 1694 - Matches - start was 5
+
+20140428232814: Chal - Cyan Green Green Green - 2229
+20140428232814: Resp - Cyan Green Green Green - 2229 - Matches - start was 5
+
+20140428232926: Chal - Green Green Red Red - 1192
+20140428232926: Resp - Green Green Red Red - 1192 - Matches - start was 5
+
+20140428232942: Chal - Magenta Blue Magenta Green - 1949
+20140428232942: Resp - Magenta Blue Magenta Green - 1949 - Matches - start was 5
+
+20140428232958: Chal - Cyan Magenta Red Blue - 2321
+20140428232958: Resp - Cyan Green Red Blue - 2223 - *** Does not match - start was 5
+
+20140428233014: Chal - Yellow Blue Blue Blue - 2629
+20140428233014: Resp - Yellow Blue Blue Blue - 2629 - Matches - start was 5
+
+20140428233030: Chal - Green Magenta Red Blue - 1292
+20140428233030: Resp - Green Green Red Blue - 1194 - *** Does not match - start was 5
+
+20140428233146: Chal - Red Yellow Blue Red - 1059
+20140428233146: Resp - Red Yellow Blue Red - 1059 - Matches - start was 5
+
+20140428233203: Chal - Green Yellow Red Cyan - 1392
+20140428233203: Resp - Green Yellow Red Cyan - 1392 - Matches - start was 5
+
+20140428233219: Chal - Blue Green Yellow Magenta - 1573
+20140428233219: Resp - Blue Green Yellow Magenta - 1573 - Matches - start was 5
+
+20140428233236: Chal - Green Yellow Cyan Green - 1417
+20140428233236: Resp - Green Yellow Cyan Green - 1417 - Matches - start was 5
+
+20140428233252: Chal - Yellow Green Yellow Cyan - 2603
+20140428233252: Resp - Yellow Green Yellow Cyan - 2603 - Matches - start was 5
+
+20140428233308: Chal - Magenta Magenta Yellow Red - 2011
+20140428233308: Resp - Magenta Magenta Yellow Red - 2011 - Matches - start was 5
+
+20140428233324: Chal - Yellow Cyan Yellow Blue - 2748
+20140428233324: Resp - Yellow Cyan Yellow Blue - 2748 - Matches - start was 5
+
+20140428233340: Chal - Blue Blue Magenta Cyan - 1609
+20140428233340: Resp - Blue Blue Magenta Cyan - 1609 - Matches - start was 6
+
+20140428233356: Chal - Green Green Blue Blue - 1208
+20140428233356: Resp - Green Green Blue Blue - 1208 - Matches - start was 5
+
+20140428233413: Chal - Yellow Magenta Yellow Magenta - 2700
+20140428233413: Resp - Yellow Blue Yellow Blue - 2650 - *** Does not match - start was 5
+
+20140428233522: Chal - Yellow Magenta Yellow Cyan - 2701
+20140428233522: Resp - Yellow Green Yellow Cyan - 2603 - *** Does not match - start was 5
+
+20140428233538: Chal - Cyan Yellow Blue Green - 2432
+20140428233538: Resp - Cyan Yellow Blue Green - 2432 - Matches - start was 5
+
+20140428233554: Chal - Cyan Green Yellow Yellow - 2261
+20140428233554: Resp - Cyan Green Yellow Yellow - 2261 - Matches - start was 5
+
+20140428233611: Chal - Magenta Blue Green Cyan - 1938
+20140428233611: Resp - Blue Blue Green Green - 1592 - *** Does not match - start was 5
+
+20140428233627: Chal - Red Cyan Blue Magenta - 1013
+20140428233627: Resp - Red Cyan Blue Magenta - 1013 - Matches - start was 5
+
+20140428233643: Chal - Red Blue Red Magenta - 901
+20140428233643: Resp - Red Blue Red Magenta - 901 - Matches - start was 5
+
+20140428233659: Chal - Red Magenta Blue Blue - 963
+20140428233659: Resp - Red Green Blue Blue - 865 - *** Does not match - start was 5
+
+20140428233715: Chal - Cyan Magenta Magenta Yellow - 2345
+20140428233715: Resp - Cyan Green Magenta Yellow - 2247 - *** Does not match - start was 5
+
+20140428233732: Chal - Red Cyan Magenta Cyan - 1021
+20140428233732: Resp - Red Cyan Green Cyan - 1007 - *** Does not match - start was 5
+

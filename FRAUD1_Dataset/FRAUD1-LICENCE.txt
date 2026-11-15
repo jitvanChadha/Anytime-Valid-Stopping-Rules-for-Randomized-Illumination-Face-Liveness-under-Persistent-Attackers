@@ -1,0 +1,53 @@
+This is file FRAUD1-LICENCE.txt - 06-Feb-2015
+http://www.itee.uq.edu.au/sas/datasets
+
+The FRAUD1 (Face Replay Attack UQ Dataset, Version 1) and associated 
+data ('Licensed Material')  are made available to the scientific 
+community for non-commercial research purposes such as academic 
+research, teaching, scientific publications or personal 
+experimentation. Permission is granted to you (the 'Licensee') to use, 
+copy and distribute the Licensed Material in accordance with the 
+following terms and conditions:
+
+    Licensee must include a reference to the following publication in any 
+    published work that makes use of the Licensed Material:
+
+    Face Recognition on Consumer Devices: Reflections on Replay Attacks
+    Daniel F. Smith, Arnold Williem, and Brian C. Lovell
+
+    IEEE Transactions on Information Forensics and Security
+    Special Issue on Biometric Spoofing and Countermeasures
+
+    BibTex entry:
+
+@article{Smith_IEEE_2015,
+   author = {Smith, Daniel F. and Wiliem, Arnold and Lovell, Brian C.},
+   title = {Face Recognition on Consumer Devices: Reflections on Replay Attacks},
+   journal = {IEEE Transactions on Information Forensics and Security},
+   volume = {10},
+   number = {Special Issue on Biometric Spoofing and Countermeasures },
+   DOI = {10.1109/TIFS.2015.2398819},
+   year = {2015},
+   type = {Journal Article}
+}
+
+    If the Licensee alters the content of the Licensed Material or 
+    creates any derivative work, Licensee must include in the altered 
+    Licensed Material or derivative work prominent notices to ensure that 
+    any recipients know that they are not receiving the original Licensed 
+    Material.
+
+    Licensee may not use or distribute the Licensed Material or any 
+    derivative work for commercial purposes including but not limited to, 
+    licensing or selling the Licensed Material or using the Licensed 
+    Material for commercial gain.
+
+    The Licensed Material is provided 'AS IS', without any expressed or 
+    implied warranties. The authors do not accept any responsibility for 
+    errors or omissions in the Licensed Material.
+
+    This original licence notice must be retained in all copies or 
+    derivatives of the Licensed Material.
+
+    All rights not expressly granted to the Licensee are reserved by the 
+    authors.

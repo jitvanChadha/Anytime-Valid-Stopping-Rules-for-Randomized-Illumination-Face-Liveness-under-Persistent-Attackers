@@ -1,0 +1,469 @@
+Subject1-Logitech
+------
+20140516111433: Chal - Blue Green Green Magenta - 1545
+20140516111433: Resp - Blue Green Green Magenta - 1545 - Matches - start was 5
+
+20140516111453: Chal - Cyan Blue Red Red - 2270
+20140516111453: Resp - Cyan Blue Red Red - 2270 - Matches - start was 6
+
+20140516111507: Chal - Yellow Red Red Blue - 2517
+20140516111507: Resp - Yellow Red Red Blue - 2517 - Matches - start was 6
+
+20140516111523: Chal - Cyan Red Green Cyan - 2183
+20140516111523: Resp - Cyan Red Green Cyan - 2183 - Matches - start was 6
+
+20140516111538: Chal - Blue Green Cyan Red - 1563
+20140516111538: Resp - Blue Green Cyan Red - 1563 - Matches - start was 6
+
+20140516111553: Chal - Green Blue Green Red - 1248
+20140516111553: Resp - Green Blue Green Red - 1248 - Matches - start was 6
+
+20140516111608: Chal - Magenta Red Yellow Cyan - 1868
+20140516111608: Resp - Magenta Red Yellow Cyan - 1868 - Matches - start was 5
+
+20140516111623: Chal - Magenta Red Yellow Green - 1865
+20140516111623: Resp - Magenta Red Yellow Green - 1865 - Matches - start was 5
+
+20140516111638: Chal - Cyan Green Green Magenta - 2231
+20140516111638: Resp - Cyan Green Green Magenta - 2231 - Matches - start was 6
+
+20140516111709: Chal - Green Green Blue Yellow - 1211
+20140516111709: Resp - Green Green Blue Yellow - 1211 - Matches - start was 5
+
+20140516111727: Chal - Blue Blue Blue Green - 1599
+20140516111727: Resp - Blue Blue Blue Green - 1599 - Matches - start was 6
+
+20140516111754: Chal - Magenta Red Blue Magenta - 1846
+20140516111754: Resp - Magenta Red Blue Magenta - 1846 - Matches - start was 5
+
+20140516111810: Chal - Green Blue Yellow Blue - 1278
+20140516111810: Resp - Green Blue Yellow Blue - 1278 - Matches - start was 6
+
+20140516111827: Chal - Yellow Blue Magenta Red - 2634
+20140516111827: Resp - Yellow Blue Magenta Red - 2634 - Matches - start was 5
+
+20140516111842: Chal - Magenta Red Cyan Magenta - 1860
+20140516111842: Resp - Magenta Red Cyan Magenta - 1860 - Matches - start was 5
+
+Subject2-Logitech
+------
+20140516112408: Chal - Green Cyan Green Red - 1346
+20140516112408: Resp - Green Cyan Green Red - 1346 - Matches - start was 6
+
+20140516112427: Chal - Magenta Cyan Blue Green - 2040
+20140516112427: Resp - Magenta Cyan Blue Green - 2040 - Matches - start was 6
+
+20140516112508: Chal - Blue Red Blue Red - 1500
+20140516112508: Resp - Blue Red Blue Red - 1500 - Matches - start was 6
+
+20140516112528: Chal - Magenta Magenta Blue Magenta - 1993
+20140516112528: Resp - Magenta Magenta Blue Magenta - 1993 - Matches - start was 5
+
+20140516112547: Chal - Green Magenta Cyan Blue - 1320
+20140516112547: Resp - Green Magenta Cyan Blue - 1320 - Matches - start was 6
+
+20140516112626: Chal - Magenta Green Cyan Green - 1907
+20140516112626: Resp - Magenta Green Cyan Green - 1907 - Matches - start was 6
+
+20140516112646: Chal - Cyan Yellow Magenta Cyan - 2442
+20140516112646: Resp - Cyan Yellow Magenta Cyan - 2442 - Matches - start was 6
+
+20140516112705: Chal - Magenta Red Blue Cyan - 1847
+20140516112705: Resp - Magenta Red Blue Cyan - 1847 - Matches - start was 6
+
+20140516112719: Chal - Yellow Magenta Blue Green - 2677
+20140516112719: Resp - Yellow Magenta Blue Green - 2677 - Matches - start was 6
+
+20140516112734: Chal - Magenta Green Cyan Red - 1906
+20140516112734: Resp - Magenta Green Cyan Red - 1906 - Matches - start was 6
+
+20140516112750: Chal - Magenta Yellow Red Yellow - 2079
+20140516112750: Resp - Magenta Yellow Red Yellow - 2079 - Matches - start was 6
+
+20140516112820: Chal - Blue Cyan Cyan Cyan - 1714
+20140516112820: Resp - Blue Cyan Cyan Cyan - 1714 - Matches - start was 5
+
+20140516112837: Chal - Cyan Yellow Cyan Magenta - 2448
+20140516112837: Resp - Cyan Yellow Cyan Magenta - 2448 - Matches - start was 5
+
+20140516112852: Chal - Green Blue Green Blue - 1250
+20140516112852: Resp - Green Blue Green Blue - 1250 - Matches - start was 5
+
+20140516112906: Chal - Magenta Cyan Yellow Red - 2060
+20140516112906: Resp - Magenta Cyan Yellow Red - 2060 - Matches - start was 6
+
+Subject3-Logitech
+------
+20140516120619: Chal - Yellow Yellow Magenta Green - 2782
+20140516120619: Resp - Yellow Yellow Magenta Green - 2782 - Matches - start was 7
+
+20140516120637: Chal - Blue Green Green Magenta - 1545
+20140516120637: Resp - Blue Green Green Magenta - 1545 - Matches - start was 7
+
+20140516120647: Chal - Cyan Blue Cyan Green - 2299
+20140516120647: Resp - Cyan Blue Cyan Green - 2299 - Matches - start was 7
+
+20140516120657: Chal - Magenta Magenta Green Blue - 1985
+20140516120657: Resp - Magenta Magenta Green Blue - 1985 - Matches - start was 7
+
+20140516120707: Chal - Yellow Green Red Red - 2564
+20140516120707: Resp - Yellow Green Red Red - 2564 - Matches - start was 7
+
+20140516120725: Chal - Magenta Yellow Cyan Magenta - 2105
+20140516120725: Resp - Magenta Yellow Cyan Magenta - 2105 - Matches - start was 7
+
+20140516120735: Chal - Cyan Blue Yellow Cyan - 2309
+20140516120735: Resp - Cyan Blue Yellow Cyan - 2309 - Matches - start was 7
+
+20140516120745: Chal - Red Blue Yellow Magenta - 936
+20140516120745: Resp - Red Blue Yellow Magenta - 936 - Matches - start was 7
+
+20140516120755: Chal - Yellow Yellow Green Red - 2767
+20140516120755: Resp - Yellow Yellow Green Red - 2767 - Matches - start was 7
+
+20140516120805: Chal - Green Magenta Yellow Blue - 1327
+20140516120805: Resp - Green Magenta Yellow Blue - 1327 - Matches - start was 7
+
+20140516120815: Chal - Yellow Red Magenta Yellow - 2541
+20140516120815: Resp - Yellow Red Magenta Yellow - 2541 - Matches - start was 7
+
+20140516120825: Chal - Red Yellow Magenta Red - 1066
+20140516120825: Resp - Red Yellow Magenta Red - 1066 - Matches - start was 7
+
+20140516120835: Chal - Blue Blue Green Cyan - 1595
+20140516120835: Resp - Blue Blue Green Cyan - 1595 - Matches - start was 7
+
+20140516120846: Chal - Cyan Cyan Cyan Blue - 2398
+20140516120846: Resp - Cyan Cyan Cyan Blue - 2398 - Matches - start was 7
+
+20140516120855: Chal - Blue Magenta Cyan Green - 1662
+20140516120855: Resp - Blue Magenta Cyan Green - 1662 - Matches - start was 7
+
+Subject4-Logitech
+------
+20140516121124: Chal - Green Green Cyan Red - 1220
+20140516121124: Resp - Green Green Cyan Red - 1220 - Matches - start was 7
+
+20140516121139: Chal - Magenta Red Cyan Red - 1857
+20140516121139: Resp - Magenta Red Cyan Red - 1857 - Matches - start was 7
+
+20140516121149: Chal - Red Red Green Magenta - 810
+20140516121149: Resp - Red Red Green Magenta - 810 - Matches - start was 7
+
+20140516121202: Chal - Magenta Magenta Cyan Green - 2005
+20140516121202: Resp - Magenta Magenta Cyan Green - 2005 - Matches - start was 7
+
+20140516121212: Chal - Red Cyan Cyan Green - 1025
+20140516121212: Resp - Red Cyan Cyan Green - 1025 - Matches - start was 7
+
+20140516121222: Chal - Green Cyan Magenta Green - 1361
+20140516121222: Resp - Green Cyan Magenta Green - 1361 - Matches - start was 7
+
+20140516121232: Chal - Cyan Blue Magenta Red - 2291
+20140516121232: Resp - Cyan Blue Magenta Red - 2291 - Matches - start was 7
+
+20140516121242: Chal - Blue Cyan Cyan Magenta - 1713
+20140516121242: Resp - Blue Cyan Cyan Magenta - 1713 - Matches - start was 7
+
+20140516121252: Chal - Green Green Red Magenta - 1195
+20140516121252: Resp - Green Green Red Magenta - 1195 - Matches - start was 7
+
+20140516121301: Chal - Magenta Magenta Yellow Cyan - 2015
+20140516121301: Resp - Magenta Magenta Yellow Cyan - 2015 - Matches - start was 7
+
+20140516121311: Chal - Yellow Cyan Blue Cyan - 2729
+20140516121311: Resp - Yellow Cyan Blue Cyan - 2729 - Matches - start was 7
+
+20140516121321: Chal - Blue Cyan Yellow Cyan - 1721
+20140516121321: Resp - Blue Cyan Yellow Cyan - 1721 - Matches - start was 7
+
+20140516121331: Chal - Red Green Blue Yellow - 868
+20140516121331: Resp - Red Green Blue Yellow - 868 - Matches - start was 7
+
+20140516121341: Chal - Green Cyan Cyan Red - 1367
+20140516121341: Resp - Green Cyan Cyan Red - 1367 - Matches - start was 7
+
+20140516121351: Chal - Red Green Yellow Magenta - 887
+20140516121351: Resp - Red Green Yellow Magenta - 887 - Matches - start was 7
+
+Subject5-Logitech
+------
+20140516122909: Chal - Yellow Yellow Yellow Blue - 2797
+20140516122909: Resp - Yellow Yellow Yellow Blue - 2797 - Matches - start was 7
+
+20140516122942: Chal - Cyan Green Yellow Green - 2257
+20140516122942: Resp - Cyan Green Yellow Green - 2257 - Matches - start was 7
+
+20140516122952: Chal - Cyan Green Red Red - 2221
+20140516122952: Resp - Cyan Green Red Red - 2221 - Matches - start was 7
+
+20140516123002: Chal - Blue Cyan Yellow Red - 1717
+20140516123002: Resp - Blue Cyan Yellow Red - 1717 - Matches - start was 7
+
+20140516123012: Chal - Blue Cyan Magenta Blue - 1705
+20140516123012: Resp - Blue Cyan Magenta Blue - 1705 - Matches - start was 7
+
+20140516123024: Chal - Yellow Blue Magenta Red - 2634
+20140516123024: Resp - Yellow Blue Magenta Red - 2634 - Matches - start was 7
+
+20140516123035: Chal - Red Red Magenta Blue - 823
+20140516123035: Resp - Red Red Magenta Blue - 823 - Matches - start was 6
+
+20140516123045: Chal - Blue Yellow Blue Yellow - 1750
+20140516123045: Resp - Blue Yellow Blue Yellow - 1750 - Matches - start was 6
+
+20140516123054: Chal - Blue Yellow Cyan Red - 1759
+20140516123054: Resp - Blue Yellow Cyan Red - 1759 - Matches - start was 7
+
+20140516123104: Chal - Magenta Cyan Yellow Cyan - 2064
+20140516123104: Resp - Magenta Cyan Yellow Cyan - 2064 - Matches - start was 7
+
+20140516123114: Chal - Magenta Red Cyan Green - 1858
+20140516123114: Resp - Magenta Red Cyan Green - 1858 - Matches - start was 7
+
+20140516123124: Chal - Red Cyan Yellow Red - 1031
+20140516123124: Resp - Red Cyan Yellow Red - 1031 - Matches - start was 7
+
+20140516123134: Chal - Green Magenta Yellow Blue - 1327
+20140516123134: Resp - Green Magenta Yellow Blue - 1327 - Matches - start was 7
+
+20140516123144: Chal - Red Cyan Yellow Red - 1031
+20140516123144: Resp - Red Cyan Yellow Red - 1031 - Matches - start was 7
+
+20140516123154: Chal - Blue Cyan Blue Cyan - 1700
+20140516123154: Resp - Blue Cyan Blue Cyan - 1700 - Matches - start was 7
+
+Subject6-Logitech
+------
+20140516130449: Chal - Red Blue Red Red - 898
+20140516130449: Resp - Red Blue Red Red - 898 - Matches - start was 7
+
+20140516130516: Chal - Green Green Green Cyan - 1203
+20140516130516: Resp - Green Green Green Cyan - 1203 - Matches - start was 7
+
+20140516130532: Chal - Red Blue Red Magenta - 901
+20140516130532: Resp - Red Blue Red Magenta - 901 - Matches - start was 7
+
+20140516130542: Chal - Green Green Green Yellow - 1204
+20140516130542: Resp - Green Green Green Yellow - 1204 - Matches - start was 7
+
+20140516130553: Chal - Magenta Blue Magenta Blue - 1950
+20140516130553: Resp - Magenta Blue Magenta Blue - 1950 - Matches - start was 7
+
+20140516130623: Chal - Cyan Cyan Yellow Cyan - 2407
+20140516130623: Resp - Cyan Cyan Yellow Cyan - 2407 - Matches - start was 7
+
+20140516130645: Chal - Green Red Cyan Green - 1172
+20140516130645: Resp - Green Red Cyan Green - 1172 - Matches - start was 7
+
+20140516130656: Chal - Red Magenta Cyan Magenta - 978
+20140516130656: Resp - Red Magenta Cyan Magenta - 978 - Matches - start was 7
+
+20140516130709: Chal - Yellow Cyan Yellow Cyan - 2750
+20140516130709: Resp - Yellow Cyan Yellow Cyan - 2750 - Matches - start was 7
+
+20140516130723: Chal - Magenta Magenta Magenta Red - 1997
+20140516130723: Resp - Magenta Magenta Magenta Red - 1997 - Matches - start was 7
+
+20140516130733: Chal - Red Green Green Cyan - 860
+20140516130733: Resp - Red Green Green Cyan - 860 - Matches - start was 7
+
+20140516130743: Chal - Magenta Blue Magenta Blue - 1950
+20140516130743: Resp - Magenta Blue Magenta Blue - 1950 - Matches - start was 7
+
+20140516130759: Chal - Green Magenta Yellow Yellow - 1330
+20140516130759: Resp - Green Magenta Yellow Yellow - 1330 - Matches - start was 7
+
+20140516130809: Chal - Cyan Yellow Blue Magenta - 2434
+20140516130809: Resp - Cyan Yellow Blue Magenta - 2434 - Matches - start was 7
+
+20140516130823: Chal - Yellow Cyan Blue Cyan - 2729
+20140516130823: Resp - Yellow Cyan Blue Cyan - 2729 - Matches - start was 7
+
+Subject7-Logitech
+------
+20140516143405: Chal - Cyan Yellow Red Red - 2417
+20140516143405: Resp - Cyan Yellow Red Red - 2417 - Matches - start was 7
+
+20140516143437: Chal - Green Yellow Magenta Blue - 1411
+20140516143437: Resp - Green Yellow Magenta Blue - 1411 - Matches - start was 7
+
+20140516143521: Chal - Blue Cyan Magenta Magenta - 1706
+20140516143521: Resp - Blue Cyan Magenta Magenta - 1706 - Matches - start was 7
+
+20140516143621: Chal - Blue Cyan Green Blue - 1691
+20140516143621: Resp - Blue Cyan Green Blue - 1691 - Matches - start was 7
+
+20140516143655: Chal - Magenta Green Green Green - 1886
+20140516143655: Resp - Magenta Green Green Green - 1886 - Matches - start was 7
+
+20140516143709: Chal - Green Green Blue Red - 1206
+20140516143709: Resp - Green Green Blue Red - 1206 - Matches - start was 7
+
+20140516143720: Chal - Yellow Cyan Blue Blue - 2727
+20140516143720: Resp - Yellow Cyan Blue Blue - 2727 - Matches - start was 7
+
+20140516143730: Chal - Magenta Blue Green Yellow - 1939
+20140516143730: Resp - Magenta Blue Green Yellow - 1939 - Matches - start was 7
+
+20140516143740: Chal - Red Cyan Magenta Magenta - 1020
+20140516143740: Resp - Red Cyan Magenta Magenta - 1020 - Matches - start was 7
+
+20140516143750: Chal - Blue Cyan Green Cyan - 1693
+20140516143750: Resp - Blue Cyan Green Cyan - 1693 - Matches - start was 7
+
+20140516143802: Chal - Yellow Red Blue Magenta - 2532
+20140516143802: Resp - Yellow Red Blue Magenta - 2532 - Matches - start was 7
+
+20140516143815: Chal - Yellow Yellow Blue Yellow - 2779
+20140516143815: Resp - Yellow Yellow Blue Yellow - 2779 - Matches - start was 7
+
+20140516143828: Chal - Cyan Red Blue Red - 2186
+20140516143828: Resp - Cyan Red Blue Red - 2186 - Matches - start was 7
+
+20140516143848: Chal - Green Red Yellow Blue - 1180
+20140516143848: Resp - Green Red Yellow Blue - 1180 - Matches - start was 7
+
+20140516143858: Chal - Magenta Green Magenta Blue - 1901
+20140516143858: Resp - Magenta Green Magenta Blue - 1901 - Matches - start was 7
+
+Subject8-Logitech
+------
+20140516161200: Chal - Cyan Blue Yellow Blue - 2307
+20140516161200: Resp - Blue Blue Yellow Blue - 1621 - *** Does not match - start was 6
+
+20140516161249: Chal - Yellow Magenta Magenta Yellow - 2688
+20140516161249: Resp - Yellow Magenta Magenta Yellow - 2688 - Matches - start was 7
+
+20140516161310: Chal - Green Yellow Yellow Green - 1424
+20140516161310: Resp - Yellow Yellow Yellow Green - 2796 - *** Does not match - start was 5
+
+20140516161402: Chal - Cyan Green Magenta Cyan - 2246
+20140516161402: Resp - Cyan Green Magenta Cyan - 2246 - Matches - start was 7
+
+20140516161527: Chal - Yellow Red Red Yellow - 2520
+20140516161527: Resp - Yellow Red Red Yellow - 2520 - Matches - start was 5
+
+20140516161706: Chal - Magenta Red Blue Magenta - 1846
+20140516161706: Resp - Magenta Red Blue Magenta - 1846 - Matches - start was 7
+
+20140516161926: Chal - Cyan Red Yellow Green - 2208
+20140516161926: Resp - Blue Red Yellow Green - 1522 - *** Does not match - start was 4
+
+20140516162304: Chal - Red Blue Green Blue - 907
+20140516162304: Resp - Red Blue Green Blue - 907 - Matches - start was 7
+
+20140516162405: Chal - Blue Blue Magenta Red - 1605
+20140516162405: Resp - Blue Blue Magenta Red - 1605 - Matches - start was 7
+
+20140516162510: Chal - Cyan Green Blue Magenta - 2238
+20140516162510: Resp - Cyan Green Blue Magenta - 2238 - Matches - start was 7
+
+20140516162549: Chal - Yellow Magenta Red Yellow - 2667
+20140516162549: Resp - Yellow Magenta Red Yellow - 2667 - Matches - start was 7
+
+20140516162628: Chal - Magenta Yellow Green Green - 2082
+20140516162628: Resp - Magenta Yellow Green Green - 2082 - Matches - start was 7
+
+20140516162657: Chal - Cyan Red Cyan Green - 2201
+20140516162657: Resp - Cyan Red Cyan Green - 2201 - Matches - start was 7
+
+20140516162752: Chal - Green Yellow Yellow Red - 1423
+20140516162752: Resp - Green Yellow Yellow Red - 1423 - Matches - start was 7
+
+20140516163010: Chal - Blue Blue Green Blue - 1593
+20140516163010: Resp - Blue Blue Green Blue - 1593 - Matches - start was 7
+
+Subject9-Logitech
+------
+20140516225323: Chal - Cyan Green Blue Red - 2235
+20140516225323: Resp - Cyan Green Blue Red - 2235 - Matches - start was 6
+
+20140516225417: Chal - Green Magenta Blue Yellow - 1309
+20140516225417: Resp - Green Magenta Blue Yellow - 1309 - Matches - start was 6
+
+20140516225447: Chal - Cyan Red Magenta Magenta - 2196
+20140516225447: Resp - Cyan Red Magenta Magenta - 2196 - Matches - start was 6
+
+20140516225506: Chal - Yellow Red Red Yellow - 2520
+20140516225506: Resp - Yellow Red Red Yellow - 2520 - Matches - start was 5
+
+20140516225522: Chal - Yellow Yellow Green Green - 2768
+20140516225522: Resp - Yellow Yellow Green Green - 2768 - Matches - start was 6
+
+20140516225555: Chal - Red Blue Yellow Magenta - 936
+20140516225555: Resp - Red Blue Yellow Magenta - 936 - Matches - start was 6
+
+20140516225618: Chal - Blue Cyan Yellow Magenta - 1720
+20140516225618: Resp - Blue Cyan Yellow Magenta - 1720 - Matches - start was 6
+
+20140516225630: Chal - Green Red Red Red - 1143
+20140516225630: Resp - Green Red Red Red - 1143 - Matches - start was 6
+
+20140516225643: Chal - Yellow Green Green Red - 2571
+20140516225643: Resp - Yellow Green Green Red - 2571 - Matches - start was 6
+
+20140516225720: Chal - Magenta Red Green Cyan - 1840
+20140516225720: Resp - Magenta Red Green Cyan - 1840 - Matches - start was 6
+
+20140516225742: Chal - Yellow Blue Yellow Blue - 2650
+20140516225742: Resp - Yellow Blue Yellow Blue - 2650 - Matches - start was 6
+
+20140516225755: Chal - Green Red Yellow Green - 1179
+20140516225755: Resp - Green Red Yellow Green - 1179 - Matches - start was 5
+
+20140516225807: Chal - Blue Yellow Cyan Blue - 1761
+20140516225807: Resp - Blue Yellow Cyan Blue - 1761 - Matches - start was 6
+
+20140516225825: Chal - Magenta Magenta Magenta Magenta - 2000
+20140516225825: Resp - Magenta Magenta Magenta Magenta - 2000 - Matches - start was 6
+
+20140516225840: Chal - Magenta Cyan Red Yellow - 2030
+20140516225840: Resp - Magenta Cyan Red Yellow - 2030 - Matches - start was 5
+
+Subject10-Logitech
+------
+20140516232053: Chal - Magenta Green Red Yellow - 1883
+20140516232053: Resp - Magenta Green Red Yellow - 1883 - Matches - start was 7
+
+20140516232106: Chal - Cyan Blue Yellow Cyan - 2309
+20140516232106: Resp - Cyan Blue Yellow Cyan - 2309 - Matches - start was 7
+
+20140516232121: Chal - Magenta Yellow Yellow Blue - 2111
+20140516232121: Resp - Magenta Yellow Yellow Blue - 2111 - Matches - start was 7
+
+20140516232131: Chal - Green Green Cyan Green - 1221
+20140516232131: Resp - Green Green Cyan Green - 1221 - Matches - start was 7
+
+20140516232141: Chal - Cyan Yellow Cyan Yellow - 2450
+20140516232141: Resp - Cyan Yellow Cyan Yellow - 2450 - Matches - start was 7
+
+20140516232151: Chal - Red Magenta Red Red - 947
+20140516232151: Resp - Red Magenta Red Red - 947 - Matches - start was 7
+
+20140516232204: Chal - Red Cyan Red Cyan - 1000
+20140516232204: Resp - Red Cyan Red Cyan - 1000 - Matches - start was 7
+
+20140516232214: Chal - Yellow Red Magenta Red - 2536
+20140516232214: Resp - Yellow Red Magenta Red - 2536 - Matches - start was 7
+
+20140516232224: Chal - Magenta Yellow Green Blue - 2083
+20140516232224: Resp - Magenta Yellow Green Blue - 2083 - Matches - start was 7
+
+20140516232237: Chal - Cyan Cyan Magenta Red - 2389
+20140516232237: Resp - Cyan Cyan Magenta Red - 2389 - Matches - start was 7
+
+20140516232247: Chal - Green Yellow Red Yellow - 1393
+20140516232247: Resp - Green Yellow Red Yellow - 1393 - Matches - start was 7
+
+20140516232257: Chal - Yellow Green Cyan Yellow - 2597
+20140516232257: Resp - Yellow Green Cyan Yellow - 2597 - Matches - start was 7
+
+20140516232311: Chal - Magenta Red Yellow Cyan - 1868
+20140516232311: Resp - Magenta Red Yellow Cyan - 1868 - Matches - start was 7
+
+20140516232332: Chal - Red Blue Green Magenta - 908
+20140516232332: Resp - Red Blue Green Magenta - 908 - Matches - start was 7
+
+20140516232342: Chal - Yellow Magenta Blue Red - 2676
+20140516232342: Resp - Yellow Magenta Blue Red - 2676 - Matches - start was 7

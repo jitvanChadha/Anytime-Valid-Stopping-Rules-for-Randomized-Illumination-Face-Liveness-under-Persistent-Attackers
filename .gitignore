@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+my_run/
+smoke/
+calib.json
+calib_videos.csv

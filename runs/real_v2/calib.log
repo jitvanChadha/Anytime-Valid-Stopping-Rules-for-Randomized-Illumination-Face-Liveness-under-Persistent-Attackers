@@ -1,0 +1,44 @@
+{
+ "detector": "peaks",
+ "roi": "auto",
+ "n_used": 276,
+ "n_rejected": 24,
+ "fps_median": 30.0,
+ "reject_rate": 0.08,
+ "warning": null,
+ "frame_ms": 33.333333333333336,
+ "quantisation_floor_ms": 9.622504486493764,
+ "sigma_pooled_ms": 11.756100086567573,
+ "sigma_pooled_ci95": [
+  10.966736229508212,
+  12.541606024896467
+ ],
+ "period_ms_mean": 190.1903741993015,
+ "period_ms_between_video_sd": 6.215724079661955,
+ "width_ms_between_video_sd": 7.440083227667425,
+ "framelock": {
+  "R": 0.25715540298953843,
+  "resid_rms_frames": 0.24446587067536596,
+  "interval_frames_hist": {
+   "3": 3,
+   "4": 24,
+   "5": 346,
+   "6": 1157,
+   "7": 124,
+   "8": 2
+  },
+  "sigma_whole_frame_part_ms": 12.556902155140124,
+  "whole_frame_share_of_variance": 1.1408760697150788,
+  "reading": "NOT frame-locked: intervals vary continuously (rms distance >= 0.22 frame), sigma_hat reflects timing noise"
+ }
+}
+
+rejected 24 videos (edge-count QC); first few: 
+  LogitechPro9000\Subject10-Logitech\20140516232247.avi: 2 rises / 2 falls (want 4) 
+  LogitechPro9000\Subject10-Logitech\20140516232332.avi: 2 rises / 2 falls (want 4) 
+  LogitechPro9000\Subject8-Logitech\20140516161200.avi: 3 rises / 3 falls (want 4) 
+  LogitechPro9000\Subject8-Logitech\20140516161310.avi: 3 rises / 3 falls (want 4) 
+  LogitechPro9000\Subject8-Logitech\20140516161527.avi: 3 rises / 3 falls (want 4)
+
+Next: python3 sim.py --sigma 11.8   # re-run E1-E6 with the measured jitter
+Caveat: timing JITTER on a frame-locked schedule, not display->camera latency; tau_live is NOT identifiable from FRAUD1.

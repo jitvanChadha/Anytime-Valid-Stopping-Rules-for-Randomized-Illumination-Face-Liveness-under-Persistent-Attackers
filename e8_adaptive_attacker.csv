@@ -1,0 +1,29 @@
+scenario,phi,test,APCER,APCER_over_alpha,mean_rounds
+Floor attacker (D=delta),0.0,E-floor,0.00033,0.33,3.174622
+Floor attacker (D=delta),0.0,F-floor,0.001068,1.0679999999999998,8.0
+AR(1) excess=0.0ms,0.0,E-floor,0.000104,0.104,2.79281
+AR(1) excess=0.0ms,0.0,F-floor,0.000302,0.302,8.0
+AR(1) excess=5.0ms,0.0,E-floor,6.6e-05,0.066,2.568956
+AR(1) excess=5.0ms,0.0,F-floor,8.6e-05,0.08600000000000001,8.0
+AR(1) excess=15.0ms,0.0,E-floor,1.8e-05,0.018,2.11179
+AR(1) excess=15.0ms,0.0,F-floor,4e-06,0.004,8.0
+AR(1) excess=0.0ms,0.5,E-floor,0.000148,0.148,2.81419
+AR(1) excess=0.0ms,0.5,F-floor,0.000324,0.324,8.0
+AR(1) excess=5.0ms,0.5,E-floor,8.8e-05,0.088,2.59757
+AR(1) excess=5.0ms,0.5,F-floor,0.000158,0.158,8.0
+AR(1) excess=15.0ms,0.5,E-floor,1.4e-05,0.014,2.141424
+AR(1) excess=15.0ms,0.5,F-floor,6e-06,0.006,8.0
+AR(1) excess=0.0ms,0.8,E-floor,0.000166,0.16599999999999998,2.835252
+AR(1) excess=0.0ms,0.8,F-floor,0.00042,0.42,8.0
+AR(1) excess=5.0ms,0.8,E-floor,9.2e-05,0.092,2.628512
+AR(1) excess=5.0ms,0.8,F-floor,0.000284,0.28400000000000003,8.0
+AR(1) excess=15.0ms,0.8,E-floor,1.8e-05,0.018,2.167434
+AR(1) excess=15.0ms,0.8,F-floor,5.6e-05,0.056,8.0
+AR(1) excess=0.0ms,0.95,E-floor,0.000206,0.206,2.85142
+AR(1) excess=0.0ms,0.95,F-floor,0.00051,0.51,8.0
+AR(1) excess=5.0ms,0.95,E-floor,0.000132,0.132,2.649658
+AR(1) excess=5.0ms,0.95,F-floor,0.000356,0.356,8.0
+AR(1) excess=15.0ms,0.95,E-floor,3.6e-05,0.036,2.187874
+AR(1) excess=15.0ms,0.95,F-floor,6e-05,0.06,8.0
+Reactive/Adaptive feedback,0.0,E-floor,0.000116,0.11599999999999999,2.859918
+Reactive/Adaptive feedback,0.0,F-floor,0.00017,0.17,8.0

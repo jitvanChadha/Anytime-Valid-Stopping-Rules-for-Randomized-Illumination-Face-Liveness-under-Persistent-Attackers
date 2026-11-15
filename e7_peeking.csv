@@ -1,0 +1,9 @@
+peeking_window_se,test,APCER,APCER_over_alpha,mean_rounds
+0.0,F-floor (fixed M=8),0.001,1.0,8.0
+0.0,E-floor (sequential),0.000302,0.302,3.17277
+0.25,F-floor-peek (w=0.25*se),0.001086,1.0859999999999999,8.010304
+0.5,F-floor-peek (w=0.5*se),0.001254,1.2539999999999998,8.031936
+0.75,F-floor-peek (w=0.75*se),0.00142,1.42,8.06832
+1.0,F-floor-peek (w=1.0*se),0.001564,1.564,8.137136
+1.5,F-floor-peek (w=1.5*se),0.00177,1.77,8.436752
+2.0,F-floor-peek (w=2.0*se),0.001868,1.868,9.091488

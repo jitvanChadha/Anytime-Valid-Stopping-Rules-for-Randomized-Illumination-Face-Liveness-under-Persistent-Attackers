@@ -1,0 +1,469 @@
+Subject1-LifeCam
+------
+20140516110523: Chal - Cyan Blue Cyan Green - 2299
+20140516110523: Resp - Cyan Blue Cyan Green - 2299 - Matches - start was 6
+
+20140516110543: Chal - Magenta Yellow Red Red - 2074
+20140516110543: Resp - Magenta Yellow Red Red - 2074 - Matches - start was 6
+
+20140516110623: Chal - Cyan Green Cyan Cyan - 2253
+20140516110623: Resp - Cyan Green Cyan Cyan - 2253 - Matches - start was 5
+
+20140516110643: Chal - Blue Blue Green Cyan - 1595
+20140516110643: Resp - Blue Blue Green Cyan - 1595 - Matches - start was 5
+
+20140516110700: Chal - Cyan Green Cyan Blue - 2251
+20140516110700: Resp - Cyan Green Cyan Blue - 2251 - Matches - start was 5
+
+20140516110827: Chal - Blue Blue Green Cyan - 1595
+20140516110827: Resp - Blue Blue Green Cyan - 1595 - Matches - start was 5
+
+20140516110855: Chal - Magenta Cyan Red Red - 2025
+20140516110855: Resp - Magenta Cyan Red Red - 2025 - Matches - start was 6
+
+20140516110911: Chal - Cyan Cyan Yellow Cyan - 2407
+20140516110911: Resp - Cyan Cyan Yellow Cyan - 2407 - Matches - start was 6
+
+20140516110927: Chal - Cyan Red Magenta Magenta - 2196
+20140516110927: Resp - Cyan Red Magenta Magenta - 2196 - Matches - start was 6
+
+20140516110943: Chal - Red Green Red Blue - 851
+20140516110943: Resp - Red Green Red Blue - 851 - Matches - start was 6
+
+20140516110958: Chal - Yellow Cyan Red Yellow - 2716
+20140516110958: Resp - Yellow Cyan Red Yellow - 2716 - Matches - start was 6
+
+20140516111017: Chal - Cyan Blue Yellow Green - 2306
+20140516111017: Resp - Cyan Blue Yellow Green - 2306 - Matches - start was 5
+
+20140516111033: Chal - Cyan Blue Red Green - 2271
+20140516111033: Resp - Cyan Blue Red Green - 2271 - Matches - start was 6
+
+20140516111053: Chal - Green Cyan Yellow Yellow - 1379
+20140516111053: Resp - Green Cyan Yellow Yellow - 1379 - Matches - start was 5
+
+20140516111109: Chal - Green Magenta Yellow Cyan - 1329
+20140516111109: Resp - Green Magenta Yellow Cyan - 1329 - Matches - start was 5
+
+Subject2-LifeCam
+------
+20140516113130: Chal - Yellow Green Blue Cyan - 2582
+20140516113130: Resp - Yellow Green Blue Cyan - 2582 - Matches - start was 5
+
+20140516113159: Chal - Red Yellow Blue Yellow - 1064
+20140516113159: Resp - Red Yellow Blue Yellow - 1064 - Matches - start was 6
+
+20140516113223: Chal - Yellow Yellow Yellow Magenta - 2798
+20140516113223: Resp - Yellow Yellow Yellow Magenta - 2798 - Matches - start was 5
+
+20140516113240: Chal - Yellow Green Red Cyan - 2568
+20140516113240: Resp - Yellow Green Red Cyan - 2568 - Matches - start was 5
+
+20140516113256: Chal - Green Cyan Yellow Blue - 1376
+20140516113256: Resp - Green Cyan Yellow Blue - 1376 - Matches - start was 6
+
+20140516113314: Chal - Blue Magenta Red Red - 1633
+20140516113314: Resp - Blue Magenta Red Red - 1633 - Matches - start was 5
+
+20140516113333: Chal - Cyan Cyan Yellow Red - 2403
+20140516113333: Resp - Cyan Cyan Yellow Red - 2403 - Matches - start was 6
+
+20140516113416: Chal - Magenta Cyan Blue Red - 2039
+20140516113416: Resp - Magenta Cyan Blue Red - 2039 - Matches - start was 6
+
+20140516113442: Chal - Blue Magenta Yellow Green - 1669
+20140516113442: Resp - Blue Magenta Yellow Green - 1669 - Matches - start was 5
+
+20140516113458: Chal - Red Blue Magenta Yellow - 924
+20140516113458: Resp - Red Blue Magenta Yellow - 924 - Matches - start was 6
+
+20140516113514: Chal - Green Blue Blue Magenta - 1258
+20140516113514: Resp - Green Blue Blue Magenta - 1258 - Matches - start was 6
+
+20140516113530: Chal - Cyan Cyan Red Red - 2368
+20140516113530: Resp - Cyan Cyan Red Red - 2368 - Matches - start was 5
+
+20140516113546: Chal - Magenta Green Green Green - 1886
+20140516113546: Resp - Magenta Green Green Green - 1886 - Matches - start was 6
+
+20140516113602: Chal - Green Red Red Blue - 1145
+20140516113602: Resp - Green Red Red Blue - 1145 - Matches - start was 6
+
+20140516113715: Chal - Red Magenta Blue Cyan - 965
+20140516113715: Resp - Red Magenta Blue Cyan - 965 - Matches - start was 5
+
+Subject3-LifeCam
+------
+20140516115904: Chal - Cyan Cyan Green Cyan - 2379
+20140516115904: Resp - Cyan Cyan Green Cyan - 2379 - Matches - start was 5
+
+20140516115932: Chal - Blue Blue Cyan Yellow - 1617
+20140516115932: Resp - Blue Blue Cyan Yellow - 1617 - Matches - start was 6
+
+20140516115953: Chal - Red Yellow Magenta Cyan - 1070
+20140516115953: Resp - Red Yellow Magenta Cyan - 1070 - Matches - start was 5
+
+20140516120005: Chal - Yellow Cyan Blue Magenta - 2728
+20140516120005: Resp - Yellow Cyan Blue Magenta - 2728 - Matches - start was 5
+
+20140516120016: Chal - Yellow Red Cyan Blue - 2545
+20140516120016: Resp - Yellow Red Cyan Blue - 2545 - Matches - start was 6
+
+20140516120037: Chal - Magenta Blue Cyan Green - 1956
+20140516120037: Resp - Magenta Blue Cyan Green - 1956 - Matches - start was 6
+
+20140516120105: Chal - Yellow Magenta Yellow Red - 2697
+20140516120105: Resp - Yellow Magenta Yellow Red - 2697 - Matches - start was 6
+
+20140516120117: Chal - Cyan Yellow Red Red - 2417
+20140516120117: Resp - Cyan Yellow Red Red - 2417 - Matches - start was 5
+
+20140516120156: Chal - Magenta Blue Blue Cyan - 1945
+20140516120156: Resp - Red Blue Blue Cyan - 916 - *** Does not match - start was 5
+
+20140516120212: Chal - Cyan Blue Red Cyan - 2274
+20140516120212: Resp - Cyan Blue Red Cyan - 2274 - Matches - start was 5
+
+20140516120229: Chal - Cyan Yellow Cyan Magenta - 2448
+20140516120229: Resp - Cyan Yellow Cyan Magenta - 2448 - Matches - start was 5
+
+20140516120242: Chal - Magenta Magenta Cyan Yellow - 2009
+20140516120242: Resp - Magenta Magenta Cyan Yellow - 2009 - Matches - start was 5
+
+20140516120256: Chal - Magenta Magenta Blue Magenta - 1993
+20140516120256: Resp - Magenta Red Blue Magenta - 1846 - *** Does not match - start was 6
+
+20140516120310: Chal - Cyan Blue Magenta Yellow - 2296
+20140516120310: Resp - Cyan Blue Magenta Yellow - 2296 - Matches - start was 5
+
+20140516120324: Chal - Yellow Green Green Green - 2572
+20140516120324: Resp - Yellow Green Green Green - 2572 - Matches - start was 6
+
+Subject4-LifeCam
+------
+20140516121434: Chal - Cyan Yellow Blue Yellow - 2436
+20140516121434: Resp - Cyan Yellow Blue Yellow - 2436 - Matches - start was 5
+
+20140516121455: Chal - Blue Blue Yellow Green - 1620
+20140516121455: Resp - Blue Blue Yellow Green - 1620 - Matches - start was 5
+
+20140516121509: Chal - Cyan Red Yellow Cyan - 2211
+20140516121509: Resp - Cyan Red Yellow Cyan - 2211 - Matches - start was 5
+
+20140516121523: Chal - Green Red Magenta Red - 1164
+20140516121523: Resp - Green Red Magenta Red - 1164 - Matches - start was 5
+
+20140516121536: Chal - Blue Blue Green Cyan - 1595
+20140516121536: Resp - Blue Blue Green Cyan - 1595 - Matches - start was 5
+
+20140516121550: Chal - Magenta Blue Magenta Yellow - 1953
+20140516121550: Resp - Magenta Blue Magenta Yellow - 1953 - Matches - start was 5
+
+20140516121604: Chal - Cyan Yellow Green Red - 2424
+20140516121604: Resp - Cyan Yellow Green Red - 2424 - Matches - start was 5
+
+20140516121619: Chal - Green Red Magenta Cyan - 1168
+20140516121619: Resp - Green Red Magenta Cyan - 1168 - Matches - start was 5
+
+20140516121648: Chal - Yellow Green Blue Yellow - 2583
+20140516121648: Resp - Yellow Green Blue Yellow - 2583 - Matches - start was 5
+
+20140516121704: Chal - Green Green Cyan Yellow - 1225
+20140516121704: Resp - Green Green Cyan Yellow - 1225 - Matches - start was 5
+
+20140516121717: Chal - Yellow Blue Magenta Blue - 2636
+20140516121717: Resp - Yellow Blue Magenta Blue - 2636 - Matches - start was 6
+
+20140516121731: Chal - Blue Yellow Red Green - 1732
+20140516121731: Resp - Blue Yellow Red Green - 1732 - Matches - start was 5
+
+20140516121745: Chal - Green Cyan Green Yellow - 1351
+20140516121745: Resp - Green Cyan Green Yellow - 1351 - Matches - start was 5
+
+20140516121801: Chal - Red Magenta Green Yellow - 959
+20140516121801: Resp - Red Magenta Green Yellow - 959 - Matches - start was 6
+
+20140516121814: Chal - Yellow Red Blue Blue - 2531
+20140516121814: Resp - Yellow Red Blue Blue - 2531 - Matches - start was 5
+
+Subject5-LifeCam
+------
+20140516122230: Chal - Magenta Blue Green Red - 1934
+20140516122230: Resp - Magenta Blue Green Red - 1934 - Matches - start was 5
+
+20140516122302: Chal - Red Green Green Magenta - 859
+20140516122302: Resp - Red Green Green Magenta - 859 - Matches - start was 6
+
+20140516122320: Chal - Cyan Green Red Red - 2221
+20140516122320: Resp - Cyan Green Red Red - 2221 - Matches - start was 6
+
+20140516122335: Chal - Cyan Blue Blue Cyan - 2288
+20140516122335: Resp - Cyan Blue Blue Cyan - 2288 - Matches - start was 5
+
+20140516122350: Chal - Cyan Red Cyan Yellow - 2205
+20140516122350: Resp - Cyan Red Cyan Yellow - 2205 - Matches - start was 5
+
+20140516122456: Chal - Yellow Cyan Blue Green - 2726
+20140516122456: Resp - Yellow Cyan Blue Green - 2726 - Matches - start was 5
+
+20140516122609: Chal - Magenta Red Blue Magenta - 1846
+20140516122609: Resp - Magenta Red Blue Red - 1843 - *** Does not match - start was 5
+
+20140516122627: Chal - Blue Green Green Cyan - 1546
+20140516122627: Resp - Blue Green Green Cyan - 1546 - Matches - start was 5
+
+20140516122641: Chal - Green Green Magenta Green - 1214
+20140516122641: Resp - Green Green Magenta Green - 1214 - Matches - start was 5
+
+20140516122655: Chal - Red Red Magenta Cyan - 825
+20140516122655: Resp - Red Red Magenta Cyan - 825 - Matches - start was 5
+
+20140516122709: Chal - Red Blue Red Red - 898
+20140516122709: Resp - Red Blue Red Red - 898 - Matches - start was 5
+
+20140516122723: Chal - Yellow Green Yellow Magenta - 2602
+20140516122723: Resp - Yellow Green Yellow Magenta - 2602 - Matches - start was 6
+
+20140516122737: Chal - Magenta Yellow Magenta Magenta - 2098
+20140516122737: Resp - Magenta Yellow Magenta Magenta - 2098 - Matches - start was 5
+
+20140516122750: Chal - Magenta Yellow Cyan Blue - 2104
+20140516122750: Resp - Magenta Yellow Cyan Blue - 2104 - Matches - start was 6
+
+20140516122804: Chal - Green Magenta Red Green - 1291
+20140516122804: Resp - Green Magenta Red Green - 1291 - Matches - start was 5
+
+Subject6-LifeCam
+------
+20140516131036: Chal - Magenta Red Magenta Magenta - 1853
+20140516131036: Resp - Magenta Red Magenta Magenta - 1853 - Matches - start was 5
+
+20140516131132: Chal - Yellow Magenta Green Green - 2670
+20140516131132: Resp - Yellow Magenta Green Green - 2670 - Matches - start was 6
+
+20140516131235: Chal - Green Magenta Cyan Blue - 1320
+20140516131235: Resp - Green Magenta Cyan Blue - 1320 - Matches - start was 6
+
+20140516131302: Chal - Green Green Blue Cyan - 1210
+20140516131302: Resp - Green Green Blue Cyan - 1210 - Matches - start was 6
+
+20140516131319: Chal - Blue Magenta Magenta Cyan - 1658
+20140516131319: Resp - Blue Magenta Magenta Cyan - 1658 - Matches - start was 6
+
+20140516131348: Chal - Magenta Blue Red Red - 1927
+20140516131348: Resp - Magenta Blue Red Red - 1927 - Matches - start was 6
+
+20140516131407: Chal - Blue Blue Cyan Magenta - 1615
+20140516131407: Resp - Blue Blue Cyan Magenta - 1615 - Matches - start was 5
+
+20140516131428: Chal - Red Yellow Yellow Green - 1081
+20140516131428: Resp - Red Yellow Yellow Green - 1081 - Matches - start was 6
+
+20140516131441: Chal - Blue Cyan Blue Yellow - 1701
+20140516131441: Resp - Blue Cyan Blue Yellow - 1701 - Matches - start was 6
+
+20140516131459: Chal - Magenta Red Yellow Cyan - 1868
+20140516131459: Resp - Magenta Red Yellow Cyan - 1868 - Matches - start was 6
+
+20140516131515: Chal - Blue Green Magenta Cyan - 1560
+20140516131515: Resp - Blue Green Magenta Cyan - 1560 - Matches - start was 6
+
+20140516131542: Chal - Yellow Cyan Red Cyan - 2715
+20140516131542: Resp - Yellow Cyan Red Cyan - 2715 - Matches - start was 5
+
+20140516131602: Chal - Magenta Blue Red Yellow - 1932
+20140516131602: Resp - Magenta Blue Red Yellow - 1932 - Matches - start was 5
+
+20140516131616: Chal - Yellow Blue Cyan Yellow - 2646
+20140516131616: Resp - Yellow Blue Cyan Yellow - 2646 - Matches - start was 6
+
+20140516131645: Chal - Blue Yellow Yellow Magenta - 1769
+20140516131645: Resp - Blue Yellow Yellow Magenta - 1769 - Matches - start was 5
+
+Subject7-LifeCam
+------
+20140516141515: Chal - Cyan Green Yellow Cyan - 2260
+20140516141515: Resp - Cyan Green Yellow Cyan - 2260 - Matches - start was 6
+
+20140516141811: Chal - Magenta Cyan Red Green - 2026
+20140516141811: Resp - Magenta Cyan Red Green - 2026 - Matches - start was 6
+
+20140516141917: Chal - Cyan Blue Green Blue - 2279
+20140516141917: Resp - Cyan Blue Green Blue - 2279 - Matches - start was 6
+
+20140516142214: Chal - Yellow Blue Yellow Yellow - 2653
+20140516142214: Resp - Yellow Blue Yellow Yellow - 2653 - Matches - start was 6
+
+20140516142448: Chal - Red Green Cyan Yellow - 882
+20140516142448: Resp - Red Green Cyan Yellow - 882 - Matches - start was 6
+
+20140516142505: Chal - Cyan Yellow Green Yellow - 2429
+20140516142505: Resp - Cyan Yellow Green Yellow - 2429 - Matches - start was 5
+
+20140516142522: Chal - Cyan Blue Cyan Magenta - 2301
+20140516142522: Resp - Cyan Blue Cyan Magenta - 2301 - Matches - start was 6
+
+20140516142535: Chal - Blue Red Red Magenta - 1489
+20140516142535: Resp - Blue Red Red Magenta - 1489 - Matches - start was 5
+
+20140516142558: Chal - Yellow Green Cyan Blue - 2594
+20140516142558: Resp - Yellow Green Cyan Blue - 2594 - Matches - start was 6
+
+20140516142621: Chal - Magenta Yellow Yellow Green - 2110
+20140516142621: Resp - Magenta Yellow Yellow Green - 2110 - Matches - start was 6
+
+20140516142642: Chal - Cyan Magenta Yellow Red - 2354
+20140516142642: Resp - Cyan Magenta Yellow Red - 2354 - Matches - start was 5
+
+20140516142852: Chal - Blue Green Magenta Magenta - 1559
+20140516142852: Resp - Blue Green Magenta Magenta - 1559 - Matches - start was 5
+
+20140516142920: Chal - Cyan Cyan Blue Red - 2382
+20140516142920: Resp - Cyan Cyan Blue Red - 2382 - Matches - start was 5
+
+20140516142955: Chal - Red Red Green Blue - 809
+20140516142955: Resp - Red Red Green Blue - 809 - Matches - start was 5
+
+20140516143012: Chal - Red Yellow Blue Green - 1060
+20140516143012: Resp - Red Yellow Blue Green - 1060 - Matches - start was 5
+
+Subject8-LifeCam
+------
+20140516155003: Chal - Yellow Red Magenta Magenta - 2539
+20140516155003: Resp - Yellow Red Magenta Magenta - 2539 - Matches - start was 6
+
+20140516155042: Chal - Yellow Magenta Cyan Cyan - 2694
+20140516155042: Resp - Yellow Magenta Cyan Cyan - 2694 - Matches - start was 5
+
+20140516155335: Chal - Cyan Green Green Yellow - 2233
+20140516155335: Resp - Cyan Green Green Yellow - 2233 - Matches - start was 6
+
+20140516155433: Chal - Yellow Yellow Red Magenta - 2763
+20140516155433: Resp - Yellow Yellow Red Magenta - 2763 - Matches - start was 6
+
+20140516155915: Chal - Blue Yellow Red Magenta - 1734
+20140516155915: Resp - Blue Yellow Red Magenta - 1734 - Matches - start was 6
+
+20140516155955: Chal - Magenta Red Blue Red - 1843
+20140516155955: Resp - Magenta Red Blue Red - 1843 - Matches - start was 5
+
+20140516160034: Chal - Green Magenta Yellow Yellow - 1330
+20140516160034: Resp - Green Magenta Yellow Yellow - 1330 - Matches - start was 5
+
+20140516160100: Chal - Green Magenta Blue Magenta - 1307
+20140516160100: Resp - Yellow Magenta Blue Magenta - 2679 - *** Does not match - start was 7
+
+20140516160147: Chal - Magenta Red Green Red - 1836
+20140516160147: Resp - Yellow Red Green Red - 2522 - *** Does not match - start was 7
+
+20140516160211: Chal - Yellow Magenta Magenta Cyan - 2687
+20140516160211: Resp - Yellow Magenta Magenta Cyan - 2687 - Matches - start was 5
+
+20140516160304: Chal - Green Magenta Yellow Yellow - 1330
+20140516160304: Resp - Green Magenta Yellow Yellow - 1330 - Matches - start was 6
+
+20140516160324: Chal - Green Blue Blue Green - 1256
+20140516160324: Resp - Green Blue Blue Green - 1256 - Matches - start was 5
+
+20140516160440: Chal - Cyan Red Blue Blue - 2188
+20140516160440: Resp - Cyan Red Blue Blue - 2188 - Matches - start was 5
+
+20140516160504: Chal - Blue Yellow Magenta Green - 1753
+20140516160504: Resp - Blue Yellow Magenta Green - 1753 - Matches - start was 5
+
+20140516160528: Chal - Magenta Green Blue Yellow - 1897
+20140516160528: Resp - Magenta Green Blue Yellow - 1897 - Matches - start was 5
+
+Subject9-LifeCam
+------
+20140516230142: Chal - Blue Blue Yellow Cyan - 1623
+20140516230142: Resp - Blue Blue Yellow Cyan - 1623 - Matches - start was 6
+
+20140516230219: Chal - Yellow Red Cyan Blue - 2545
+20140516230219: Resp - Yellow Red Cyan Blue - 2545 - Matches - start was 5
+
+20140516230232: Chal - Cyan Yellow Red Yellow - 2422
+20140516230232: Resp - Cyan Yellow Red Yellow - 2422 - Matches - start was 5
+
+20140516230410: Chal - Yellow Yellow Yellow Red - 2795
+20140516230410: Resp - Yellow Yellow Yellow Red - 2795 - Matches - start was 6
+
+20140516230502: Chal - Cyan Red Magenta Yellow - 2198
+20140516230502: Resp - Cyan Red Magenta Yellow - 2198 - Matches - start was 6
+
+20140516230558: Chal - Magenta Green Red Cyan - 1882
+20140516230558: Resp - Magenta Green Red Cyan - 1882 - Matches - start was 6
+
+20140516230612: Chal - Blue Red Cyan Red - 1514
+20140516230612: Resp - Blue Red Cyan Red - 1514 - Matches - start was 5
+
+20140516230625: Chal - Green Yellow Cyan Magenta - 1419
+20140516230625: Resp - Green Yellow Cyan Magenta - 1419 - Matches - start was 6
+
+20140516230648: Chal - Yellow Green Green Cyan - 2575
+20140516230648: Resp - Yellow Green Green Cyan - 2575 - Matches - start was 5
+
+20140516230702: Chal - Cyan Cyan Yellow Blue - 2405
+20140516230702: Resp - Cyan Cyan Yellow Blue - 2405 - Matches - start was 5
+
+20140516230716: Chal - Magenta Yellow Yellow Red - 2109
+20140516230716: Resp - Magenta Yellow Yellow Red - 2109 - Matches - start was 5
+
+20140516230729: Chal - Yellow Cyan Blue Blue - 2727
+20140516230729: Resp - Yellow Cyan Blue Blue - 2727 - Matches - start was 6
+
+20140516230743: Chal - Red Magenta Magenta Blue - 970
+20140516230743: Resp - Red Magenta Magenta Blue - 970 - Matches - start was 5
+
+20140516230757: Chal - Red Red Magenta Yellow - 826
+20140516230757: Resp - Red Red Magenta Yellow - 826 - Matches - start was 6
+
+20140516230813: Chal - Magenta Yellow Magenta Blue - 2097
+20140516230813: Resp - Magenta Yellow Magenta Blue - 2097 - Matches - start was 6
+
+Subject10-LifeCam
+------
+20140516230944: Chal - Magenta Green Green Red - 1885
+20140516230944: Resp - Magenta Green Green Red - 1885 - Matches - start was 6
+
+20140516231315: Chal - Red Magenta Cyan Green - 976
+20140516231315: Resp - Red Magenta Cyan Green - 976 - Matches - start was 5
+
+20140516231424: Chal - Cyan Cyan Magenta Red - 2389
+20140516231424: Resp - Cyan Cyan Magenta Red - 2389 - Matches - start was 6
+
+20140516231513: Chal - Magenta Red Magenta Yellow - 1855
+20140516231513: Resp - Magenta Red Magenta Yellow - 1855 - Matches - start was 6
+
+20140516231550: Chal - Blue Yellow Yellow Magenta - 1769
+20140516231550: Resp - Blue Yellow Yellow Magenta - 1769 - Matches - start was 5
+
+20140516231605: Chal - Red Magenta Cyan Red - 975
+20140516231605: Resp - Red Magenta Cyan Red - 975 - Matches - start was 6
+
+20140516231630: Chal - Green Magenta Yellow Magenta - 1328
+20140516231630: Resp - Green Magenta Yellow Magenta - 1328 - Matches - start was 6
+
+20140516231653: Chal - Red Blue Red Cyan - 902
+20140516231653: Resp - Red Blue Red Cyan - 902 - Matches - start was 6
+
+20140516231709: Chal - Cyan Blue Green Yellow - 2282
+20140516231709: Resp - Cyan Blue Green Yellow - 2282 - Matches - start was 5
+
+20140516231722: Chal - Red Red Magenta Blue - 823
+20140516231722: Resp - Red Red Magenta Blue - 823 - Matches - start was 6
+
+20140516231736: Chal - Red Blue Red Cyan - 902
+20140516231736: Resp - Red Blue Red Cyan - 902 - Matches - start was 6
+
+20140516231750: Chal - Red Magenta Red Yellow - 952
+20140516231750: Resp - Red Magenta Red Yellow - 952 - Matches - start was 6
+
+20140516231808: Chal - Green Green Green Red - 1199
+20140516231808: Resp - Green Green Green Red - 1199 - Matches - start was 6
+
+20140516231824: Chal - Yellow Red Red Yellow - 2520
+20140516231824: Resp - Yellow Red Red Yellow - 2520 - Matches - start was 6
+
+20140516231838: Chal - Green Blue Magenta Cyan - 1266
+20140516231838: Resp - Green Blue Magenta Cyan - 1266 - Matches - start was 6
