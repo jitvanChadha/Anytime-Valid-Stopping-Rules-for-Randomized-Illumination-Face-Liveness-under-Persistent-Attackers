@@ -1,0 +1,22 @@
+{
+ "sigma_hat_ms": 9.832903753020044,
+ "sigma_ci": [
+  7.700606445537556,
+  12.162933153910139
+ ],
+ "tau_live_ms": 5.085410596990131,
+ "delta_hat_ms": 83.95104984863065,
+ "delta_design_ms": 83,
+ "sigma_design_ms": 12.162933153910139,
+ "delta_over_sigma": 6.8240118522165165,
+ "floor_shift_ms": -0.951049848630646,
+ "noise_residual_sd_ms": 9.583500861668517,
+ "rtt_ms": {
+  "n": 400,
+  "median": 3.0,
+  "sd": 7.210892801865799,
+  "p99": 44.01999999999998
+ },
+ "e_process_update_us": 0.0608345000364352,
+ "round_duration_ms": 1400
+}

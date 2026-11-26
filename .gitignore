@@ -4,3 +4,4 @@ my_run/
 smoke/
 calib.json
 calib_videos.csv
+.claude/

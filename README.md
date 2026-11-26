@@ -5,8 +5,10 @@ Jitvan Chadha, Saravanan K. N. and Ramamurthy B. (Department of Computer Science
 Bangalore, India).
 
 The paper studies how to decide, from a few noisy rounds of a screen-flash challenge, whether a face is live or is a
-real-time face swap that needs extra time to respond. Everything in the paper is a simulation of a stated model. No
-attack was run against a real system, and the attacker latency floor is a design parameter that we did not measure.
+real-time face swap that needs extra time to respond. Sections IV and V analyze the rules in theory and simulation.
+The revised paper (WcAISR-2027) adds a hardware validation: a screen-flash testbed, a real-time face-swap injection
+attack, a measured latency floor, and every decision rule applied to the recorded sessions. Its code, data and results
+are in [hardware_validation/](hardware_validation/README.md).
 
 ## The dataset in this repository is not ours
 
